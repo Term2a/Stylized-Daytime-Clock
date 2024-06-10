@@ -81,10 +81,10 @@ let txtBox3 = document.getElementsByClassName('txtBox')[3];
 
 visMode.addEventListener('change', function() {
     if(this.checked == true) {
-        modeKnob.style.top = '83%';
+        modeKnob.style.top = '84%';
         modeKnob.style.border = '2px solid rgb(63, 193, 216)';
         modeTxt.innerHTML = 'OFF';
-        modeTxt.style.top = '42%';
+        modeTxt.style.top = '43%';
         img.setAttribute('src', './assets/Black-red/bg2c.png');
         icon.innerHTML = '<ion-icon name="sunny-outline"></ion-icon>'
 
