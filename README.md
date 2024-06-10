@@ -1,4 +1,4 @@
-<h1>Stylized Daytime Clock <h3>for <a href="https://www.instagram.com/layerb_agency/">@layerbof</a></h3></h1>
+<h1>Stylized Daytime Clock (Desktop only) <h3>for <a href="https://www.instagram.com/layerb_agency/">@layerbof</a></h3></h1>
 <hr/>
 
 <h2>🕑 Real-time</h2>
